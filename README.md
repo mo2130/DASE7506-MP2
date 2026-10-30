@@ -103,4 +103,4 @@ threads, well inside the 30 s limit; the asset is well inside 16 MiB.
 AI assistance was used for code implementation, analysis scripts.
 ## Report
 
-`report/MP2_Report_EN.pdf` (7 pages).
+`report/3036706741-Zimo Zhang-DASE7506 MP2
